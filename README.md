@@ -9,7 +9,7 @@ open index.html in 2 tabs and send message from one tab and see the other tab.
 
 ### Quick Start
 
-Get up and running with a single import.
+Get up and clone.
 
 ```bash
 git clone https://github.com/parsamoloody/boardcastChannel.git
